@@ -63,7 +63,6 @@
  
  export async function listReservations(params, signal) {
    const url = new URL(`${API_BASE_URL}/reservations`);
-   console.log(url);
    Object.entries(params).forEach(([key, value]) => {
      return url.searchParams.append(key, value.toString());
    });
