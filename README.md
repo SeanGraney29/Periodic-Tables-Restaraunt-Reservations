@@ -3,7 +3,7 @@
 
 ## Links
 
-GitHub Repo: https://github.com/SeanGraney29/take5-restaurant-reservation-main \
+GitHub Repo: https://github.com/SeanGraney29/take6-restaurant-reservation-main \
 Heroku Deployment: https://graney-final-capstone.herokuapp.com/
 
 ## Overview
