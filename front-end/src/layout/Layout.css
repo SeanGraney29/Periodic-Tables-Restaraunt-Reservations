@@ -1,0 +1,12 @@
+.side-bar {
+  background-color:#00008B;
+  min-width: 200px;
+}
+
+h2, h3 {
+  color:#0000CD;
+}
+
+.table-sidebar, .seat-button {
+  background-color: 	#87CEEB;
+}
