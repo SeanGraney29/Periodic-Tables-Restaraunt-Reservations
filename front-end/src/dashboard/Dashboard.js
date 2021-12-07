@@ -16,11 +16,11 @@ function Dashboard({ date, reservations, tables, reservationsError, tablesError,
 
   return (
     <main>
+      <ErrorAlert error={reservationsError} />
+      <ErrorAlert error={tablesError} />
       <div className="row">
         <div className="col-md-8 col-sm-12" >
         <h2 >dashboard</h2>
-        <ErrorAlert error={reservationsError} />
-      <ErrorAlert error={tablesError} />
         <br></br>
           <h4 className="mb-1 text-secondary">
             reservations for {date}</h4>
