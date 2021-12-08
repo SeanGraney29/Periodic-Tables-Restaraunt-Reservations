@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
 1. Fork and clone this repository.
 1. Run `npm install` to install project dependencies.
-1. Run `npm run start:dev` to start your server in development mode.
+1. Run `npm start`.
 
 
 ## Specific Details of App
